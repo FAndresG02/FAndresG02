@@ -103,14 +103,36 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
+<!--- stats & Trophy (start) -->
 
-<a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xabdulkhalid&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0xabdulkhalid&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+<!--- stats & Trophy (start) -->
+<!--- stats & Trophy (start) -->
 
-</a>
-</div>
+<p align="center">
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FAndresG02&theme=dark&show_icons=true&count_private=true" />
+
+<br><br>
+
+  <img title="🔥 streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=FAndresG02&theme=dark&hide_border=false" /> 
+
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAndresG02&theme=dark&layout=compact&langs_count=8"/>
+
+</td>
+</tr>
+</table>
+
+</p>
+
+<!--- stats (end) -->
 
 <br>
 <br>
