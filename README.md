@@ -17,7 +17,6 @@
 - 🐧 Usuario apasionado de **Linux (Debian)** como entorno de desarrollo principal.
 - 💻 Desarrollador **Full Stack** con experiencia en Java (Spring Boot), Angular, MySQL y Docker.
 - 🌐 Proyecto en vivo: [Electromobility EC](https://electromobilityec.com/) (Desarrollado en WordPress).
-- 🚀 Actualmente enfocado en arquitecturas con **Docker** y despliegues en la nube.
 <!--- 📄 Estoy abierto a oportunidades laborales o pasantías: [Mira mi portafolio aquí](https://portfolio-henry-tacuri.web.app/home)-->
 
 <br>
