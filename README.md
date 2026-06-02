@@ -15,7 +15,7 @@
 
 - 🎓 **Ingeniero en Ciencias de la Computación** graduado de la UPS (Ecuador).
 - 🐧 Usuario apasionado de **Linux (Debian)** como entorno de desarrollo principal.
-- 💻 Desarrollador **Full Stack** con experiencia en Java (Spring Boot), Angular, MySQL y Docker.
+- 💻 Desarrollador Full Stack con experiencia en Java (Spring Boot), Python, Angular, Docker, MySQL, MariaDB y PostgreSQL.
 - 🌐 Proyecto en vivo: [Electromobility EC](https://electromobilityec.com/) (Desarrollado en WordPress).
 <!--- 📄 Estoy abierto a oportunidades laborales o pasantías: [Mira mi portafolio aquí](https://portfolio-henry-tacuri.web.app/home)-->
 
