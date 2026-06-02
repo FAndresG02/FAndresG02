@@ -97,47 +97,6 @@
 -----
 
 <br>
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-<!--- stats & Trophy (start) -->
-
-<!--- stats & Trophy (start) -->
-<!--- stats & Trophy (start) -->
-
-<p align="center">
-
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FAndresG02&theme=dark&show_icons=true&count_private=true" />
-
-<br><br>
-
-  <img title="🔥 streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=FAndresG02&theme=dark&hide_border=false" /> 
-
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FAndresG02&theme=dark&layout=compact&langs_count=8"/>
-
-</td>
-</tr>
-</table>
-
-</p>
-
-<!--- stats (end) -->
-<br>
-<br>
-
------
-
-<br>
 <br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
