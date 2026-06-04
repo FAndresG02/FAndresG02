@@ -15,7 +15,7 @@
 
 - 🎓 **Ingeniero en Ciencias de la Computación** graduado de la UPS (Ecuador).
 - 🐧 Usuario apasionado de **Linux (Debian)** como entorno de desarrollo principal.
-- 💻 Desarrollador Full Stack con experiencia en Java (Spring Boot), Python, Angular, Docker, MySQL, MariaDB y PostgreSQL.
+- 💻 Desarrollador Full Stack con experiencia en Java (Spring Boot), .NET, Angular, Docker, MySQL, MariaDB y PostgreSQL.
 - 🌐 Proyecto en vivo: [Electromobility EC](https://electromobilityec.com/) (Desarrollado en WordPress).
 <!--- 📄 Estoy abierto a oportunidades laborales o pasantías: [Mira mi portafolio aquí](https://portfolio-henry-tacuri.web.app/home)-->
 
@@ -23,7 +23,7 @@
 
 ### 🛠️ Tecnologías y Herramientas con las cuales he trabajado durante mi vida universitaria
 
-- **Lenguajes:** Java, TypeScript, JavaScript, Python, Dart, C++.
+- **Lenguajes:** Java, .NET, TypeScript, JavaScript, Python, Dart, C++.
 - **Frameworks:** Spring Boot, Angular, NestJS, Flask, Flutter.
 - **Bases de Datos:** PostgreSQL, MySQL, OracleSQL, MongoDB.
 - **DevOps:** Docker, Kubernetes, Git, GitHub.
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET%20-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white">
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 
   <br><br>
@@ -56,7 +56,6 @@
   <strong>Frameworks & Libs:</strong><br>
   <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
 
   <br><br>
